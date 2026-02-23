@@ -35,6 +35,3 @@ riddhi = {
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=riddhi2002&theme=tokyonight&hide_border=true"/>
-</div>
