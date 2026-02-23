@@ -36,6 +36,5 @@ riddhi = {
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riddhi2002&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhi2002&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=riddhi2002&theme=tokyonight&hide_border=true"/>
 </div>
